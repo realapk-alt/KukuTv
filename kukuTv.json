@@ -1,15 +1,14 @@
-  {
-  "appname": "server [working ✅]",
-  "redirecturl": "https://github.com/realapk-alt/KukuTv/raw/refs/heads/main/data2.zip",
+{
+  "appname": "Auto Login System",
+  "redirecturl": "https://hackertmm.com/welcome",
   "server": [
     {
-      "servername": "server [Not Working] ❌",
-      "serverurl": "https://github.com/realapk-alt/KukuTv/raw/refs/heads/main/data2.zip"
+      "servername": "Server [Working ✅]",
+      "serverurl": "https://server1.com/data.zip"
     },
     {
-      "servername": "Backup Server 2", 
-      "serverurl": "https://server3.com/data.zip"
+      "servername": "Backup Server",
+      "serverurl": "https://server2.com/data.zip"
     }
-    
   ]
 }
