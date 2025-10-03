@@ -6,6 +6,10 @@
       "servername": "server [Not Working] ❌",
       "serverurl": "https://github.com/realapk-alt/KukuTv/raw/refs/heads/main/data2.zip"
     },
+    {
+      "servername": "Backup Server 2", 
+      "serverurl": "https://server3.com/data.zip"
+    },
     
   ]
 }
