@@ -1,0 +1,22 @@
+  {
+  "appname": "Auto Login System",
+  "redirecturl": "https://hackertmm.com/welcome",
+  "server": [
+    {
+      "servername": "Main Server",
+      "serverurl": "https://server1.com/data.zip"
+    },
+    {
+      "servername": "Backup Server",
+      "serverurl": "https://server2.com/data.zip"
+    },
+    {
+      "servername": "Backup Server 2", 
+      "serverurl": "https://server3.com/data.zip"
+    },
+    {
+      "servername": "Backup Server 3",
+      "serverurl": "https://server4.com/data.zip"
+    }
+  ]
+}
