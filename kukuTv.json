@@ -9,7 +9,7 @@
     {
       "servername": "Backup Server 2", 
       "serverurl": "https://server3.com/data.zip"
-    },
+    }
     
   ]
 }
