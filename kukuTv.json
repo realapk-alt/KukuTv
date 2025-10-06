@@ -4,11 +4,11 @@
   "server": [
     {
       "servername": "Server [Working ✅]",
-      "serverurl": "https://github.com/realapk-alt/KukuTv/raw/refs/heads/main/data2.zip"
+      "serverurl": "https://github.com/realapk-alt/shankar/raw/refs/heads/main/data.zip"
     },
     {
       "servername": "Backup Server",
-      "serverurl": "https://github.com/realapk-alt/KukuTv/raw/refs/heads/main/data2.zip"
+      "serverurl": "https://github.com/realapk-alt/shankar/raw/refs/heads/main/data.zip"
     }
   ]
 }
