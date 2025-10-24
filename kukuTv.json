@@ -1,14 +1,10 @@
 {
-  "appname": "Auto Login System",
-  "redirecturl": "https://t.me/aboutofhcs",
-  "server": [
-    {
-      "servername": "Server [Working ✅]",
-      "serverurl": "https://github.com/realapk-alt/QuickTVPublic/raw/refs/heads/main/data.zip"
-    },
-    {
-      "servername": "Backup Server",
-      "serverurl": "https://github.com/realapk-alt/QuickTVPublic/raw/refs/heads/main/data.zip"
+  "data": {
+    "servers": {
+      "server1": "https://github.com/aditya7543-adi/Quik-Tv/raw/refs/heads/main/Quik%20Tv%20data.zip",
+      "server2": "https://github.com/aditya7543-adi/Quik-Tv/raw/refs/heads/main/Quik%20Tv%20data.zip",
+      "server3": "https://github.com/aditya7543-adi/Quik-Tv/raw/refs/heads/main/Quik%20Tv%20data.zip",
+      "server4": "https://your-custom-server.com/data.zip"
     }
-  ]
+  }
 }
